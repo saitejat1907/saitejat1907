@@ -110,6 +110,7 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejat1907
+</p>
 
 ## Table of Contents
 - [About](#about)
@@ -123,17 +124,30 @@
 I am an aspiring DevOps and Cloud Engineer with a passion for automation and continuous integration/deployment. I have hands-on experience with Docker, Kubernetes, Azure, Terraform, and CI/CD pipelines. My goal is to leverage my skills in Git, C#, SQL, and cloud technologies to contribute to innovative projects in a dynamic environment.
 
 ## Projects
-### [E-Commerce Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
-[![E-Commerce Application](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/ECOMM_DOCKERIZATION.jpg)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
+### [CI/CD USING JENKINS PIPELINE](link_to_project)
+[![Jenkins Projects](link_to_photo)](link_to_project)
 
-### [Voting Application](link_to_project)
-[![Voting Application](link_to_photo)](link_to_project)
+### [CI/CD USING JENKINS MANUAL JOB CREATION](link_to_project)
+[![Jenkins Projects](link_to_photo)](link_to_project)
+
+### [E-Commerce Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
+[![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/ECOMM_DOCKERIZATION.jpg)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
+
+### [LMS Application Dockerization](link_to_project)
+[![Docker Project](link_to_photo)](link_to_project)
+
+### [CI/CD Deployment Into K8S Cluster Using Azure Devops](link_to_project)
+[![Kubernetes Project](link_to_photo)](link_to_project)
+
+### [Creating Azure Resources Using Terraform](link_to_project)
+[![Docker Project](link_to_photo)](link_to_project)
 
 ### [Payment Reminder Application](link_to_project)
 [![Payment Reminder Application](link_to_photo)](link_to_project)
 
-### [Docker Projects](link_to_project)
-[![Docker Projects](link_to_photo)](link_to_project)
+### [Website deployment Into NGINX web server](link_to_project)
+[![Docker Project](link_to_photo)](link_to_project)
+
 
 ## Certifications
 ### [SQL Basics](link_to_certificate)
@@ -149,13 +163,13 @@ I am an aspiring DevOps and Cloud Engineer with a passion for automation and con
 ### [Hackathon Winner](link_to_award)
 [![Hackathon Winner](link_to_photo)](link_to_award)
 
-### [First Place in Fitness Competition](link_to_award)
+### [First Place in Coding Competition](link_to_award)
 [![Fitness Competition](link_to_photo)](link_to_award)
 
 ## Contact
-- **Phone Number:** (your_phone_number)
-- **Email Address:** (your_email@example.com)
-- **LinkedIn Profile:** [Your LinkedIn](your_linkedin_profile)
+- **Phone Number:** (+1 (414) 275 - 5914)
+- **Email Address:** (saiteja19799@gmail.com)
+- **LinkedIn Profile:** [Your LinkedIn](https://www.linkedin.com/in/thangallapalli-sai-teja/)
 
 ## Resume
-[Download Resume](link_to_resume)
+<a href="link_to_resume" style="display:inline-block; padding:10px 20px; color:#fff; background-color:#007BFF; text-decoration:none; border-radius:5px;">Download Resume</a>
