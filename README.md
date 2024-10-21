@@ -110,3 +110,52 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejat1907
+
+## Table of Contents
+- [About](#about)
+- [Projects](#projects)
+- [Certifications](#certifications)
+- [Awards](#awards)
+- [Contact](#contact)
+- [Resume](#resume)
+
+## About
+I am an aspiring DevOps and Cloud Engineer with a passion for automation and continuous integration/deployment. I have hands-on experience with Docker, Kubernetes, Azure, Terraform, and CI/CD pipelines. My goal is to leverage my skills in Git, C#, SQL, and cloud technologies to contribute to innovative projects in a dynamic environment.
+
+## Projects
+### [E-Commerce Application Dockerization](link_to_project)
+[![E-Commerce Application](link_to_photo)](link_to_project)
+
+### [Voting Application](link_to_project)
+[![Voting Application](link_to_photo)](link_to_project)
+
+### [Payment Reminder Application](link_to_project)
+[![Payment Reminder Application](link_to_photo)](link_to_project)
+
+### [Docker Projects](link_to_project)
+[![Docker Projects](link_to_photo)](link_to_project)
+
+## Certifications
+### [SQL Basics](link_to_certificate)
+[![SQL Basics](link_to_photo)](link_to_certificate)
+
+### [Python Basics](link_to_certificate)
+[![Python Basics](link_to_photo)](link_to_certificate)
+
+### [Software Developer Intern](link_to_certificate)
+[![Software Developer Intern](link_to_photo)](link_to_certificate)
+
+## Awards
+### [Hackathon Winner](link_to_award)
+[![Hackathon Winner](link_to_photo)](link_to_award)
+
+### [First Place in Fitness Competition](link_to_award)
+[![Fitness Competition](link_to_photo)](link_to_award)
+
+## Contact
+- **Phone Number:** (your_phone_number)
+- **Email Address:** (your_email@example.com)
+- **LinkedIn Profile:** [Your LinkedIn](your_linkedin_profile)
+
+## Resume
+[Download Resume](link_to_resume)
