@@ -123,8 +123,8 @@
 I am an aspiring DevOps and Cloud Engineer with a passion for automation and continuous integration/deployment. I have hands-on experience with Docker, Kubernetes, Azure, Terraform, and CI/CD pipelines. My goal is to leverage my skills in Git, C#, SQL, and cloud technologies to contribute to innovative projects in a dynamic environment.
 
 ## Projects
-### [E-Commerce Application Dockerization](link_to_project)
-[![E-Commerce Application](link_to_photo)](link_to_project)
+### [E-Commerce Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
+[![E-Commerce Application](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/ECOMM_DOCKERIZATION.jpg)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
 
 ### [Voting Application](link_to_project)
 [![Voting Application](link_to_photo)](link_to_project)
