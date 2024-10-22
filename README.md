@@ -1,3 +1,5 @@
+![Hello](https://github.com/saitejat1907/saitejat1907/blob/main/Resume/hello_awesome.gif)
+
 <h1 align="center">Hi 👋, I'm SAI TEJA THANGALLAPALLI</h1>
 <h3 align="center">Empowering the Cloud, Automation & DevOps Revolution 🚀</h3>
 
@@ -110,6 +112,12 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejat1907" />
+</p>
+
+<p align = "center">  
+<a href="https://github.com/Ikarthikmb/github-readme-streak-stats" title="Go to Source">
+<img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Ikarthikmb&theme=light&border=e0e0e0&hide_border=false" alt="saitejat1907" />
+</a>
 </p>
 
 ## Table of Contents
