@@ -109,7 +109,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejat1907
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saitejat1907" />
 </p>
 
 ## Table of Contents
