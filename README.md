@@ -160,21 +160,21 @@ I am an aspiring DevOps and Cloud Engineer with a passion for automation and con
 [![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/DUAL%20AXIS%20SOLAR%20ROTATIONAL%20SYSTEM.jpg)](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system)
 
 ## Certifications
-### [SQL Basics](link_to_certificate)
-[![SQL Basics](link_to_photo)](link_to_certificate)
+### [SQL Basics](https://www.hackerrank.com/certificates/547a58ab3c12)
+[![SQL Basics](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/sql.jpg)](https://www.hackerrank.com/certificates/547a58ab3c12)
 
-### [Python Basics](link_to_certificate)
-[![Python Basics](link_to_photo)](link_to_certificate)
+### [Python Basics](https://www.hackerrank.com/certificates/d858c5733593)
+[![Python Basics](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/PYTHON(Basic).jpg)](https://www.hackerrank.com/certificates/d858c5733593)
 
-### [Software Developer Intern](link_to_certificate)
-[![Software Developer Intern](link_to_photo)](link_to_certificate)
+### [Software Developer Intern](https://www.hackerrank.com/certificates/564cb610197c)
+[![Software Developer Intern](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/intern.jpg)](https://www.hackerrank.com/certificates/564cb610197c)
 
 ## Awards
-### [Hackathon Winner](link_to_award)
-[![Hackathon Winner](link_to_photo)](link_to_award)
+### [Hackathon Winner](https://www.linkedin.com/feed/update/urn:li:activity:7249946561500102658/)
+[![Hackathon Winner](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/HACKATHON%E2%80%93%20PROTOTYPE%20LEVARAGING%20AI.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7249946561500102658/)
 
-### [First Place in Coding Competition](link_to_award)
-[![Fitness Competition](link_to_photo)](link_to_award)
+### [First Place in Coding Competition](https://www.linkedin.com/feed/update/urn:li:activity:7164461663767781376/)
+[![Fitness Competition](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/CODING.jpg)](https://www.linkedin.com/feed/update/urn:li:activity:7164461663767781376/)
 
 ## Contact
 - **Phone Number:** (+1 (414) 275 - 5914)
