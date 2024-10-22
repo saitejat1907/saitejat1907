@@ -144,18 +144,20 @@ I am an aspiring DevOps and Cloud Engineer with a passion for automation and con
 ### [LMS Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/LMS%20APPLICATION%20DOCKERIZATION)
 [![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/LMS_DOCKERIZATION.JPG)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/LMS%20APPLICATION%20DOCKERIZATION)
 
-### [CI/CD Deployment Into K8S Cluster Using Azure Devops](link_to_project)
-[![Kubernetes Project](link_to_photo)](link_to_project)
+### [CI/CD Deployment Into K8S Cluster Using Azure Devops](https://github.com/saitejat1907/Azure-Devops/tree/main/CI-CD%20DEPLOYMENT%20USING%20AKS)
+[![Kubernetes Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/CICD_KUB_AZDEV.jpg)](https://github.com/saitejat1907/Azure-Devops/tree/main/CI-CD%20DEPLOYMENT%20USING%20AKS)
 
-### [Creating Azure Resources Using Terraform](link_to_project)
-[![Docker Project](link_to_photo)](link_to_project)
+### [Creating Azure Resources Using Terraform](https://github.com/saitejat1907/azure-vpn-automated-deployment)
+[![Terraform Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/Creating%20Azure%20Resources%20Using%20Terraform.jpg)](https://github.com/saitejat1907/azure-vpn-automated-deployment)
 
-### [Payment Reminder Application](link_to_project)
-[![Payment Reminder Application](link_to_photo)](link_to_project)
+### [Payment Reminder Application](https://github.com/saitejat1907/payment-remainder-application)
+[![Payment Reminder Application](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/Payment%20Reminder%20Application.jpg)](https://github.com/saitejat1907/payment-remainder-application)
 
-### [Website deployment Into NGINX web server](link_to_project)
-[![Docker Project](link_to_photo)](link_to_project)
+### [Website deployment Into NGINX web server](https://github.com/saitejat1907/Nginx-HTML-Website-Deployment-on-VM)
+[![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/Website%20deployment%20Into%20NGINX%20web%20server.jpg)](https://github.com/saitejat1907/Nginx-HTML-Website-Deployment-on-VM)
 
+### [DUAL AXIS SOLAR ROTATIONAL SYSTEM](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system)
+[![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/DUAL%20AXIS%20SOLAR%20ROTATIONAL%20SYSTEM.jpg)](https://github.com/saitejat1907/Dual-Axis-Solar-Tracking-system)
 
 ## Certifications
 ### [SQL Basics](link_to_certificate)
