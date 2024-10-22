@@ -132,17 +132,17 @@
 I am an aspiring DevOps and Cloud Engineer with a passion for automation and continuous integration/deployment. I have hands-on experience with Docker, Kubernetes, Azure, Terraform, and CI/CD pipelines. My goal is to leverage my skills in Git, C#, SQL, and cloud technologies to contribute to innovative projects in a dynamic environment.
 
 ## Projects
-### [CI/CD USING JENKINS PIPELINE](link_to_project)
-[![Jenkins Projects](link_to_photo)](link_to_project)
+### [CI/CD USING JENKINS PIPELINE](https://github.com/saitejat1907/lms/tree/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script)
+[![Jenkins Projects](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/CICD_WITH_JEN_PIPELINE.jpg)]([link_to_project](https://github.com/saitejat1907/lms/tree/main/Jenkins%20Projects/CICD%20Pipeline%20Jenkins%20Script))
 
-### [CI/CD USING JENKINS MANUAL JOB CREATION](link_to_project)
-[![Jenkins Projects](link_to_photo)](link_to_project)
+### [CI/CD USING JENKINS MANUAL JOB CREATION](https://github.com/saitejat1907/lms/tree/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION)
+[![Jenkins Projects](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/CICD_USING_JEN_MANUAL.jpg)](https://github.com/saitejat1907/lms/tree/main/Jenkins%20Projects/CICD%20PIPELINE%20USING%20MANUAL%20JOB%20CREATION)
 
 ### [E-Commerce Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
 [![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/ECOMM_DOCKERIZATION.jpg)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/ecomm%20Dockerization)
 
-### [LMS Application Dockerization](link_to_project)
-[![Docker Project](link_to_photo)](link_to_project)
+### [LMS Application Dockerization](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/LMS%20APPLICATION%20DOCKERIZATION)
+[![Docker Project](https://github.com/saitejat1907/saitejat1907/blob/main/IMAGES/LMS_DOCKERIZATION.JPG)](https://github.com/saitejat1907/lms/tree/main/Docker%20Projects/LMS%20APPLICATION%20DOCKERIZATION)
 
 ### [CI/CD Deployment Into K8S Cluster Using Azure Devops](link_to_project)
 [![Kubernetes Project](link_to_photo)](link_to_project)
