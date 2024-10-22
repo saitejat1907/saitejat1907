@@ -7,6 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=saitejat1907&label=Profile%20views&color=0e75b6&style=flat" alt="saitejat1907" />
 </p>
 
+## Resume
+<a href="https://github.com/saitejat1907/saitejat1907/blob/main/Resume/SaiTeja_Resume.pdf" style="display:inline-block; padding:10px 20px; color:#fff; background-color:#007BFF; text-decoration:none; border-radius:5px;">Download Resume</a>
+
 <h3 align="left">Connect with Me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/thangallapalli-sai-teja/" target="blank">
@@ -181,5 +184,3 @@ I am an aspiring DevOps and Cloud Engineer with a passion for automation and con
 - **Email Address:** (saiteja19799@gmail.com)
 - **LinkedIn Profile:** [Your LinkedIn](https://www.linkedin.com/in/thangallapalli-sai-teja/)
 
-## Resume
-<a href="https://github.com/saitejat1907/saitejat1907/blob/main/Resume/SaiTeja_Resume.pdf" style="display:inline-block; padding:10px 20px; color:#fff; background-color:#007BFF; text-decoration:none; border-radius:5px;">Download Resume</a>
