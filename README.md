@@ -116,7 +116,7 @@
 
 <p align = "center">  
 <a href="https://github.com/saitejat1907/github-readme-streak-stats" title="Go to Source">
-<img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Ikarthikmb&theme=light&border=e0e0e0&hide_border=false" alt="saitejat1907" />
+<img align="center" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=saitejat1907&theme=light&border=e0e0e0&hide_border=false" alt="saitejat1907" />
 </a>
 </p>
 
